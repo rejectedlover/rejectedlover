@@ -1,4 +1,4 @@
-## Hi, I am sochieese! <img src="https://cdn.discordapp.com/emojis/1048110912084656148.png" width="30px">
+## Hi, I am sochi! <img src="https://cdn.discordapp.com/emojis/1048110912084656148.png" width="30px">
 
 
 ## 😸 Technologies I use
@@ -10,7 +10,7 @@
 
 
 ## My Discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=851585734552977449)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1169456287847829657)
 
 ## My Favorite Song ATM
 - Get Him Back By Olivia Rodrigo
@@ -23,4 +23,4 @@
 
 ## Visitors
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sochieese.sochieese)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rejectedlover.rejectedlover)
